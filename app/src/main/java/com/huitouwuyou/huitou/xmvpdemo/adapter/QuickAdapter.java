@@ -7,9 +7,9 @@ import android.view.View;
 import android.widget.ImageView;
 import com.chad.library.adapter.base.BaseQuickAdapter;
 import com.chad.library.adapter.base.BaseViewHolder;
+import com.huitouwuyou.huitou.xmvpdemo.JsonCallback.LzyResponse;
 import com.huitouwuyou.huitou.xmvpdemo.R;
 import com.huitouwuyou.huitou.xmvpdemo.model.LoginModel;
-import com.huitouwuyou.huitou.xmvpdemo.model.LzyResponse;
 import java.util.List;
 import cn.droidlover.xdroidmvp.imageloader.ILFactory;
 
@@ -22,9 +22,9 @@ public class QuickAdapter extends BaseQuickAdapter<LoginModel, BaseViewHolder> {
         super(R.layout.adapter_home, model.results);
     }
 
-   public void QuickAdapter(Bitmap a){
-       bitmap =a;
- }
+    public void QuickAdapter(Bitmap a){
+        bitmap =a;
+    }
     @Override
     protected void convert(final BaseViewHolder helper, final LoginModel item) {
         final String type = item.getType();

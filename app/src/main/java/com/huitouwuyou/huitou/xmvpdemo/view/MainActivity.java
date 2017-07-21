@@ -15,6 +15,8 @@ import com.huitouwuyou.huitou.xmvpdemo.R;
 import com.huitouwuyou.huitou.xmvpdemo.present.PMainActivityData;
 import com.huitouwuyou.huitou.xmvpdemo.ui.fragment.HomeFragment;
 import com.huitouwuyou.huitou.xmvpdemo.ui.fragment.OneFrament;
+import com.lzy.okgo.model.Response;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
@@ -75,10 +77,12 @@ public  class MainActivity extends XActivity<PMainActivityData>{
     private void checkUpdate() {
         getP().update( new PMainActivityData.UpDateCallback() {
             @Override
-            public void onUpDateReady(String update) {
+            public void onUpDateReady(Response<String> listLzyResponse) {
+
+
                 isAutoUpdate = false;
                 UpdateHelper.getInstance()
-                        .setRequestResultData(update)
+                        .setRequestResultData(listLzyResponse.body())
                         .setUpdateListener(new UpdateListener() {
                             @Override
                             public void noUpdate() {
