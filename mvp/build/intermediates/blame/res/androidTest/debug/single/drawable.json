@@ -168,12 +168,12 @@
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
