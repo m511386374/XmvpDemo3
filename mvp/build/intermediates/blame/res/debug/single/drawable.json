@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
@@ -20,8 +20,12 @@
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
@@ -69,7 +73,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -120,6 +124,10 @@
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
     },
@@ -134,6 +142,10 @@
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\2.8.0\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",

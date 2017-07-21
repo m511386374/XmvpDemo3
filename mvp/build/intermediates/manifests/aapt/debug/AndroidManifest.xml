@@ -4,7 +4,7 @@
     android:versionCode="1"
     android:versionName="1.0.0" > <!-- 广播注册 -->
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="17"
         android:targetSdkVersion="23" />
 
     <application

@@ -4,6 +4,10 @@
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_tint_switch_track.xml"
     },
     {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\switch_thumb_material_light.xml"
     },
@@ -34,6 +38,10 @@
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_error.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\color\\design_error.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",

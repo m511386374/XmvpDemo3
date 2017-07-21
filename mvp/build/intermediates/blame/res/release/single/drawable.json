@@ -8,6 +8,10 @@
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
@@ -85,7 +89,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
@@ -141,7 +145,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -154,6 +158,14 @@
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\design_ic_visibility.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_ic_visibility.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",

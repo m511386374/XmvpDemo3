@@ -25,7 +25,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_text.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
@@ -37,7 +37,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -45,15 +45,11 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_header.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_header.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
         "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_custom_big.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
@@ -89,7 +85,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_subheader.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
@@ -113,7 +109,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
@@ -121,7 +117,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu_item.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -133,7 +129,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_separator.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
@@ -169,15 +165,23 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_icon.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
@@ -205,7 +209,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_menu.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
@@ -217,7 +221,7 @@
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
-        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar_include.xml"
+        "source": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "E:\\demo\\XmvpDemo2\\mvp\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",

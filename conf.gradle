@@ -4,13 +4,13 @@ ext {
             compileSdkVersion: 23,
             buildToolsVersion: "25.0.0",
 
-            minSdkVersion    : 15,
+            minSdkVersion    : 17,
             targetSdkVersion : 23,
 
             versionCode      : 1,
             versionName      : '1.0.0',
 
-            VSupportSdk      : '23.3.0',
+            VSupportSdk      : '25.0.0',
             VRetrofitSdk     : "2.1.0",
             VOkhttp          : "3.4.2",
             VRxlifecycle     : "1.0"
@@ -21,7 +21,6 @@ ext {
             "design"                     : "com.android.support:design:${android["VSupportSdk"]}",
             "annotations"                : "com.android.support:support-annotations:${android["VSupportSdk"]}",
             "recyclerview-v7"            : "com.android.support:recyclerview-v7:${android["VSupportSdk"]}",
-
             "butterknife"                : "com.jakewharton:butterknife:8.4.0",
             "butterknife-apt"            : "com.jakewharton:butterknife-compiler:8.4.0",
             "eventbus"                   : "org.greenrobot:eventbus:3.0.0",
@@ -30,13 +29,12 @@ ext {
             "avi-loading"                : "com.wang.avi:library:1.0.2",
             "baserecyclerviewadapterhelper"                       : "com.github.CymChad:BaseRecyclerViewAdapterHelper:2.8.0",
             "gson"                       : "com.google.code.gson:gson:2.6.2",
-            "rxandroid"                  : "io.reactivex:rxandroid:1.2.1",
-            "rxjava"                     : "io.reactivex:rxjava:1.1.6",
-            "retrofit"                   : "com.squareup.retrofit2:retrofit:${android["VRetrofitSdk"]}",
-            "retrofit-converter-gson"    : "com.squareup.retrofit2:converter-gson:${android["VRetrofitSdk"]}",
-            "retrofit-adapter-rxjava"    : "com.squareup.retrofit2:adapter-rxjava:${android["VRetrofitSdk"]}",
+            "rxandroid"                  : "io.reactivex.rxjava2:rxandroid:2.0.1",
+            "rxjava"                     : "io.reactivex.rxjava2:rxjava:2.1.0",
             "okhttp3-logging-interceptor": "com.squareup.okhttp3:logging-interceptor:${android["VOkhttp"]}",
             "okhttp3"                    : "com.squareup.okhttp3:okhttp:${android["VOkhttp"]}",
+            "okrx"                    :    "com.lzy.net:okrx2:2.0.2",
+            "okgo"                    :    "com.lzy.net:okgo:3.0.3",
             "rxlifecycle"                : "com.trello:rxlifecycle:${android["VRxlifecycle"]}",
             "rxlifecycle-android"        : "com.trello:rxlifecycle-android:${android["VRxlifecycle"]}",
             "rxlifecycle-components"     : "com.trello:rxlifecycle-components:${android["VRxlifecycle"]}",
@@ -44,7 +42,8 @@ ext {
             "logutils"                    :"com.apkfuns.logutils:library:1.4.2.2",
             "canary-debug"               : "com.squareup.leakcanary:leakcanary-android:1.4-beta2",
             "canary-release"             : "com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta2",
-            "utilcode"                   : "com.blankj:utilcode:1.3.6",
+            "utilcode"             : "com.blankj:utilcode:1.3.6",
+            "autolayout"             : "com.zhy:autolayout:1.4.5",
 
     ]
 

@@ -3,6 +3,9 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
+    packagingOptions {
+        exclude 'META-INF/rxjava.properties'
+    }
     defaultConfig {
         applicationId "com.huitouwuyou.huitou.xmvpdemo"
         minSdkVersion 21
@@ -40,4 +43,5 @@ dependencies {
     compile 'com.google.android.gms:play-services-appindexing:8.1.0'
     compile 'com.alibaba:arouter-api:1.0.7'
     annotationProcessor 'com.alibaba:arouter-compiler:1.0.3'
+
 }
