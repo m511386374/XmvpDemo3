@@ -16,6 +16,7 @@ import com.dou361.update.UpdateHelper;
 import com.dou361.update.listener.UpdateListener;
 import com.huitouwuyou.huitou.xmvpdemo.R;
 import com.huitouwuyou.huitou.xmvpdemo.present.PMainActivityData;
+import com.huitouwuyou.huitou.xmvpdemo.ui.fragment.BaseFragment;
 import com.huitouwuyou.huitou.xmvpdemo.ui.fragment.HomeFragment;
 import com.huitouwuyou.huitou.xmvpdemo.ui.fragment.OneFrament;
 import com.lzy.okgo.model.Response;
@@ -31,14 +32,13 @@ import qiu.niorgai.StatusBarCompat;
 import rx.functions.Action1;
 
 @Route(path = "/mvp/MainActivity")
-public  class MainActivity extends XActivity<PMainActivityData> {
+public  class MainActivity extends XActivity<PMainActivityData> implements HomeFragment.CallBack {
     @BindView(R.id.toolbar)
     Toolbar toolbar;
     @BindView(R.id.tabLayout)
     TabLayout tabLayout;
     @BindView(R.id.viewPager)
     ViewPager viewPager;
-
     List<Fragment> fragmentList = new ArrayList<>();
     String[] titles = {"首页", "干货", "妹子"};
     private String permissionInfo;
@@ -46,23 +46,28 @@ public  class MainActivity extends XActivity<PMainActivityData> {
     XFragmentAdapter adapter;
     private Context mContext;
     private boolean isAutoUpdate;//更新标识
+
+
     @Override
     public void initData(Bundle savedInstanceState) {
+
         setSupportActionBar(toolbar);
         mContext = this;
         getPersimmions();
         StatusBarCompat.setStatusBarColor(MainActivity.this, getResources().getColor(R.color.colorPrimary));
         fragmentList.clear();
+
+        HomeFragment h1=HomeFragment.newInstance();
+
         fragmentList.add(OneFrament.newInstance());
-        fragmentList.add(HomeFragment.newInstance());
-        fragmentList.add(HomeFragment.newInstance());
+        fragmentList.add(h1);
+//        fragmentList.add(h1);
         if (adapter == null) {
             adapter = new XFragmentAdapter(getSupportFragmentManager(), fragmentList, titles);
         }
         viewPager.setAdapter(adapter);
         tabLayout.setupWithViewPager(viewPager);
         viewPager.setOffscreenPageLimit(3);
-//        viewPager.setCurrentItem(1);
 
 
     }
@@ -131,9 +136,7 @@ public  class MainActivity extends XActivity<PMainActivityData> {
         });
 
     }
-
     private static boolean mBackKeyPressed = false;//记录是否有首次按键
-
     @Override
     public void onBackPressed() {
         if(!mBackKeyPressed){
@@ -150,5 +153,11 @@ public  class MainActivity extends XActivity<PMainActivityData> {
             this.finish();
             System.exit(0);
             }
+    }
+
+
+    @Override
+    public void showMessage(String message) {
+   Toast.makeText(getApplication(),message,Toast.LENGTH_SHORT).show();
     }
 }

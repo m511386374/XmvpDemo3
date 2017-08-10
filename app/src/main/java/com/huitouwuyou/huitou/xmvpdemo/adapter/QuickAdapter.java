@@ -17,9 +17,10 @@ import cn.droidlover.xdroidmvp.imageloader.ILFactory;
  * Created by Nick.Ming on 2017/2/17.
  */
 public class QuickAdapter extends BaseQuickAdapter<LoginModel, BaseViewHolder> {
+
     Bitmap bitmap;
-    public QuickAdapter(LzyResponse<List<LoginModel>> model) {
-        super(R.layout.adapter_home, model.results);
+    public QuickAdapter(List<LoginModel> model) {
+        super(R.layout.adapter_home, model);
     }
 
     public void QuickAdapter(Bitmap a){
@@ -27,6 +28,7 @@ public class QuickAdapter extends BaseQuickAdapter<LoginModel, BaseViewHolder> {
     }
     @Override
     protected void convert(final BaseViewHolder helper, final LoginModel item) {
+//        callBack.showMessage("AAAAA");
         final String type = item.getType();
         switch (type) {
             case "休息视频":
@@ -84,4 +86,11 @@ public class QuickAdapter extends BaseQuickAdapter<LoginModel, BaseViewHolder> {
 
     }
 
+//    private  CallBack  callBack;
+//    public interface CallBack{
+//        void showMessage(String message);
+//    }
+//    public void setCallBack(CallBack callBack){
+//        this.callBack=callBack;
+//    }
 }

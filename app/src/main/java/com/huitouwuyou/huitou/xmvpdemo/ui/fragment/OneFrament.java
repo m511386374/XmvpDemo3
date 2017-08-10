@@ -5,10 +5,14 @@ import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v4.view.ViewPager;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 import com.huitouwuyou.huitou.xmvpdemo.R;
 import com.huitouwuyou.huitou.xmvpdemo.adapter.ViewPagerAdapter;
 import com.huitouwuyou.huitou.xmvpdemo.hepler.BottomNavigationViewHelper;
+import com.huitouwuyou.huitou.xmvpdemo.ui.activity.MainActivity;
+
+import java.util.Vector;
 
 import butterknife.BindView;
 import cn.droidlover.xdroidmvp.mvp.XLazyFragment;
@@ -36,6 +40,8 @@ public class OneFrament extends XLazyFragment {
         adapter.addFragment(BaseFragment.newInstance("发现"));
         adapter.addFragment(BaseFragment.newInstance("更多"));
         viewPager.setAdapter(adapter);
+
+
     }
 
     @Override
@@ -106,4 +112,7 @@ public class OneFrament extends XLazyFragment {
     public Object newP() {
         return null;
     }
+
+
+
 }

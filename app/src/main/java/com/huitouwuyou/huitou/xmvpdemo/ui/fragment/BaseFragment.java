@@ -10,6 +10,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.huitouwuyou.huitou.xmvpdemo.R;
+import com.huitouwuyou.huitou.xmvpdemo.ui.activity.MainActivity;
 
 /**
  * Created by bruce on 2016/11/1.
@@ -17,6 +18,7 @@ import com.huitouwuyou.huitou.xmvpdemo.R;
  */
 
 public class BaseFragment extends Fragment {
+
     public static BaseFragment newInstance(String info) {
         Bundle args = new Bundle();
         BaseFragment fragment = new BaseFragment();
@@ -39,4 +41,6 @@ public class BaseFragment extends Fragment {
         });
         return view;
     }
+
+
 }
